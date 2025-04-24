@@ -28,10 +28,10 @@ The following visualizations are recommended to support insights:
 - Data Source : Used the pizza_data table which includes columns like order_id, order_date, pizza_name, pizza_category, pizza_size, quantity, and total_price.
 
 - SQL Queries:
-  -- Aggregate functions like SUM(), COUNT(), AVG() were used for KPIs.
-  -- TO_CHAR(order_date, 'Day/Month') used to extract time-based trends.
-  -- Subqueries and CAST() applied for percentage calculations.
-  -- Data grouped by pizza_name, pizza_category, and pizza_size for detailed analysis.
+  - Aggregate functions like SUM(), COUNT(), AVG() were used for KPIs.
+  - TO_CHAR(order_date, 'Day/Month') used to extract time-based trends.
+  - Subqueries and CAST() applied for percentage calculations.
+  - Data grouped by pizza_name, pizza_category, and pizza_size for detailed analysis.
 
 - Tools : Queries were executed in pgAdmin (PostgreSQL).
 
