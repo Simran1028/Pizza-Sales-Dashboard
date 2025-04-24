@@ -40,8 +40,12 @@ The following visualizations are recommended to support insights:
 - February had noticeable pizza category trends (e.g., higher quantity sold in specific categories).
 - Medium-sized pizzas dominated the sales by revenue.
 - Classic and Supreme categories performed better than others.
+  
+![Screenshot 2025-04-24 233908](https://github.com/user-attachments/assets/3fc6d22f-c7cd-402b-93d3-388de2f20f7b)
 - Top 5 pizzas generated significantly more revenue than the rest, showing a clear customer preference.
 - Bottom 5 pizzas had very low orders, suggesting potential items to discontinue or revamp.
+  
+![Screenshot 2025-04-24 233920](https://github.com/user-attachments/assets/b5c64e27-ea58-45fe-94e7-8bd7826e170e)
 
 ## Conclusion
 This analysis provided valuable insights into which pizza types, sizes, and categories perform best, as well as customer ordering patterns by day and month. The business can use these insights to:
