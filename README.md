@@ -32,9 +32,10 @@ The following visualizations are recommended to support insights:
   - TO_CHAR(order_date, 'Day/Month') used to extract time-based trends.
   - Subqueries and CAST() applied for percentage calculations.
   - Data grouped by pizza_name, pizza_category, and pizza_size for detailed analysis.
-- To view <a href="">SQL Queries</a>
+- To view <a href="https://github.com/Simran1028/Pizza-Sales-Dashboard/blob/main/PIZZA_SALES%20SQL%20QUERIES.docx">SQL Queries</a>
 
 - Tools : Queries were executed in pgAdmin (PostgreSQL).
+- To view on <a href="">PowerBI</a>
 
 ## Project Insights
 - Fridays and weekends showed higher order volumes.
