@@ -35,7 +35,7 @@ The following visualizations are recommended to support insights:
 - To view <a href="https://github.com/Simran1028/Pizza-Sales-Dashboard/blob/main/PIZZA_SALES%20SQL%20QUERIES.docx">SQL Queries</a>
 
 - Tools : Queries were executed in pgAdmin (PostgreSQL).
-- To view on <a href="">PowerBI</a>
+- To view on <a href="https://github.com/Simran1028/Pizza-Sales-Dashboard/blob/main/Pizza_Sales.pbix">PowerBI</a>
 
 ## Project Insights
 - Fridays and weekends showed higher order volumes.
