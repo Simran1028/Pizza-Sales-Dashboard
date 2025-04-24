@@ -4,7 +4,7 @@
 To analyze the performance of a pizza business using SQL by extracting key insights on revenue, customer behavior, and product performance from historical sales data.
 
 ## Dataset
-Pizza Sales-<a href="">Dataset</a>
+Pizza Sales-<a href="https://github.com/Simran1028/Pizza-Sales-Dashboard/blob/main/pizza_sales.csv">Dataset</a>
 
 ## 📊 KPI Requirements
 The following key performance indicators (KPIs) were identified to evaluate business performance:
@@ -32,6 +32,7 @@ The following visualizations are recommended to support insights:
   - TO_CHAR(order_date, 'Day/Month') used to extract time-based trends.
   - Subqueries and CAST() applied for percentage calculations.
   - Data grouped by pizza_name, pizza_category, and pizza_size for detailed analysis.
+- To view <a href="">SQL Queries</a>
 
 - Tools : Queries were executed in pgAdmin (PostgreSQL).
 
